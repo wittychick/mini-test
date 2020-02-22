@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb5a2e6b-a0fd-4f5f-8f58-b6badbcee4c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/.revision/revision.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/.revision/revision.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/ZooKeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/ZooKeeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/BinaryOutputArchive.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/BinaryOutputArchive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/CsvInputArchive$CsvIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/CsvInputArchive$CsvIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/CsvInputArchive.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/CsvInputArchive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/CsvOutputArchive.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/CsvOutputArchive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/RecordReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/RecordReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/RecordWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/RecordWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/XmlInputArchive$XmlIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/XmlInputArchive$XmlIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/XmlInputArchive.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/XmlInputArchive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/XmlOutputArchive.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/XmlOutputArchive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/CGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/CGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/CSharpGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/CSharpGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/CppGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/CppGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JField.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JField.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JRecord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JVector.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JVector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JavaGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/JavaGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/ParseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/ParseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/Rcc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/Rcc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/RccTokenManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/RccTokenManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/SimpleCharStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/SimpleCharStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/TokenMgrError.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/jute/compiler/generated/TokenMgrError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/ACL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/ACL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/Id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/Id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/Stat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/Stat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/StatPersisted.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/StatPersisted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/StatPersistedV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/data/StatPersistedV1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/AuthPacket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/AuthPacket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/CheckVersionRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/CheckVersionRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ConnectRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ConnectRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ConnectResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ConnectResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/CreateRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/CreateRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/CreateResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/CreateResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/DeleteRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/DeleteRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ErrorResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ErrorResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ExistsRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ExistsRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ExistsResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ExistsResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetACLRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetACLRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetACLResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetACLResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetChildren2Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetChildren2Request.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetChildren2Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetChildren2Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetChildrenRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetChildrenRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetChildrenResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetChildrenResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetDataRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetDataRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetDataResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetDataResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetMaxChildrenRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetMaxChildrenRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetMaxChildrenResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetMaxChildrenResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetSASLRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/GetSASLRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/MultiHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/MultiHeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ReplyHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/ReplyHeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/RequestHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/RequestHeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetACLRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetACLRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetACLResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetACLResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetDataRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetDataRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetDataResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetDataResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetMaxChildrenRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetMaxChildrenRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetSASLRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetSASLRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetSASLResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetSASLResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetWatches.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SetWatches.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SyncRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SyncRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SyncResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/SyncResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/WatcherEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/proto/WatcherEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/server/persistence/FileHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/server/persistence/FileHeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/server/quorum/LearnerInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/server/quorum/LearnerInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/server/quorum/QuorumAuthPacket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/server/quorum/QuorumAuthPacket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/server/quorum/QuorumPacket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/server/quorum/QuorumPacket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/CheckVersionTxn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/CheckVersionTxn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/CreateSessionTxn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/CreateSessionTxn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/CreateTxn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/CreateTxn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/CreateTxnV0.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/CreateTxnV0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/DeleteTxn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/DeleteTxn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/ErrorTxn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/ErrorTxn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/MultiTxn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/MultiTxn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/SetACLTxn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/SetACLTxn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/SetDataTxn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/SetDataTxn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/SetMaxChildrenTxn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/SetMaxChildrenTxn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/Txn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/Txn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/TxnHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/txn/TxnHeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/version/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/version/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/version/util/VerGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/build/classes/org/apache/zookeeper/version/util/VerGen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/c/generated/zookeeper.jute.c" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/c/generated/zookeeper.jute.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/c/generated/zookeeper.jute.h" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/c/generated/zookeeper.jute.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/ACL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/ACL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/Id.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/Id.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/Stat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/Stat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/StatPersisted.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/StatPersisted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/StatPersistedV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/data/StatPersistedV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/AuthPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/AuthPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/CheckVersionRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/CheckVersionRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ConnectRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ConnectRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ConnectResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ConnectResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/CreateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/CreateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/CreateResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/CreateResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/DeleteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/DeleteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ExistsRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ExistsRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ExistsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ExistsResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetACLRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetACLRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetACLResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetACLResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetChildren2Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetChildren2Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetChildren2Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetChildren2Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetChildrenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetChildrenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetChildrenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetChildrenResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetDataRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetDataRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetDataResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetDataResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetMaxChildrenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetMaxChildrenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetMaxChildrenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetMaxChildrenResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetSASLRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/GetSASLRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/MultiHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/MultiHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ReplyHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/ReplyHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/RequestHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/RequestHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetACLRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetACLRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetACLResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetACLResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetDataRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetDataRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetDataResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetDataResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetMaxChildrenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetMaxChildrenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetSASLRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetSASLRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetSASLResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetSASLResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetWatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SetWatches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SyncRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SyncRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SyncResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/SyncResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/WatcherEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/proto/WatcherEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/server/persistence/FileHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/server/persistence/FileHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/server/quorum/LearnerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/server/quorum/LearnerInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/server/quorum/QuorumAuthPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/server/quorum/QuorumAuthPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/server/quorum/QuorumPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/server/quorum/QuorumPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/CheckVersionTxn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/CheckVersionTxn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/CreateSessionTxn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/CreateSessionTxn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/CreateTxn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/CreateTxn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/CreateTxnV0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/CreateTxnV0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/DeleteTxn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/DeleteTxn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/ErrorTxn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/ErrorTxn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/MultiTxn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/MultiTxn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/SetACLTxn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/SetACLTxn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/SetDataTxn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/SetDataTxn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/SetMaxChildrenTxn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/SetMaxChildrenTxn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/Txn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/Txn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/TxnHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/txn/TxnHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/version/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zookeeper-3.4.13/src/java/generated/org/apache/zookeeper/version/Info.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/test/MiniCoding.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-308">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#193#209#0" expanded="true" />
+                <element signature="e#694#703#0" expanded="true" />
+                <element signature="e#751#759#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/interview/test/MiniCodingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/interview/test/MiniCondingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/interview/test/MiniCoding.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/interview/test/MiniCodingTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1023" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="liujiaji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liujiaji" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liujiaji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liujiaji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liujiaji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liujiaji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liujiaji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liujiaji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liujiaji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582362771398" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MiniCodingTest.MiniTest">
+    <configuration name="MiniCodingTest.MiniTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liujiaji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.interview.test" />
+      <option name="MAIN_CLASS_NAME" value="com.interview.test.MiniCodingTest" />
+      <option name="METHOD_NAME" value="MiniTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniCondingTest.MiniTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liujiaji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.interview.test" />
+      <option name="MAIN_CLASS_NAME" value="com.interview.test.MiniCondingTest" />
+      <option name="METHOD_NAME" value="MiniTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MiniCodingTest.MiniTest" />
+        <item itemvalue="JUnit.MiniCondingTest.MiniTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb5a2e6b-a0fd-4f5f-8f58-b6badbcee4c6" name="Default Changelist" comment="" />
+      <created>1582357291047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582357291047</updated>
+      <workItem from="1582357294192" duration="5497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MiniCondingTest_MiniTest - 2020.02.22 at 16h 48m 46s.xml">
+      <configuration name="MiniCondingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MiniCondingTest_MiniTest - 2020.02.22 at 16h 49m 09s.xml">
+      <configuration name="MiniCondingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MiniCondingTest_MiniTest - 2020.02.22 at 16h 50m 12s.xml">
+      <configuration name="MiniCondingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MiniCodingTest_MiniTest - 2020.02.22 at 16h 52m 06s.xml">
+      <configuration name="MiniCodingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MiniCodingTest_MiniTest - 2020.02.22 at 16h 53m 17s.xml">
+      <configuration name="MiniCodingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MiniCodingTest_MiniTest - 2020.02.22 at 16h 58m 24s.xml">
+      <configuration name="MiniCodingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MiniCodingTest_MiniTest - 2020.02.22 at 16h 58m 42s.xml">
+      <configuration name="MiniCodingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MiniCodingTest_MiniTest - 2020.02.22 at 16h 58m 55s.xml">
+      <configuration name="MiniCodingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MiniCodingTest_MiniTest - 2020.02.22 at 16h 59m 06s.xml">
+      <configuration name="MiniCodingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MiniCodingTest_MiniTest - 2020.02.22 at 16h 59m 21s.xml">
+      <configuration name="MiniCodingTest.MiniTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5497000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16152816" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.5" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48927614" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4383378" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/test/MiniCoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#209#0" expanded="true" />
+            <element signature="e#694#703#0" expanded="true" />
+            <element signature="e#751#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interview/test/MiniCodingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
